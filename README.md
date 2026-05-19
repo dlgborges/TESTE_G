@@ -1,11 +1,12 @@
 # TESTE_Git
 
 
+<img width="993" height="529" alt="image" src="https://github.com/user-attachments/assets/8be14a41-3a10-4915-a07e-19dd11920d0e" />
+
+# PROCESSO DE CONTRIBUIÇÃO PARA O REPOSITÓRIO
+
+
 <img width="1017" height="553" alt="image" src="https://github.com/user-attachments/assets/5c5ac1d6-110d-47d3-8796-a213879a49eb" />
-
-
-
-PROCESSO DE CONTRIBUIÇÃO PARA O REPOSITÓRIO
 
 
 ## Fluxo do Aluno
